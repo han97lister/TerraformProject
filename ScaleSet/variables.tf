@@ -10,4 +10,4 @@ variable "inmins" {}
 variable "out" {}
 variable "outmins" {}
 
-variable "environment"
+variable "environment" {}
